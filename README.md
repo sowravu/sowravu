@@ -6,7 +6,8 @@ This is my profile README 😃
 
 
 
-![snake gif](https://github.com/sowravu/sowravu/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/sowravu/sowravu/output/github-snake-dark.svg)
 
 
 
