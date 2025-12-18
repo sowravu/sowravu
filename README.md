@@ -27,7 +27,7 @@ Multiple mini-projects including clones, login systems, and UI experiments
  (add link if you have one)
 
 💼 LinkedIn
- ((https://www.linkedin.com/in/sowravu-suresh-5349aa306/))
+ ((https://www.linkedin.com/in/sowravu-suresh))
 
 📧 Email:sowravuusuresh@gmail.com
 
