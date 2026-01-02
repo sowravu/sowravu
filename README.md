@@ -66,7 +66,12 @@ CRUD applications
 
 Feature-based experiments
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sowravu&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowravu&theme=tokyonight" height="170"/> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowravu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sowravu&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/sowravu/sowravu/output/snake.gif" alt="snake animation"/> </p>
