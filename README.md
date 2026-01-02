@@ -1,70 +1,72 @@
-## 👋 Hi, I’m Sowravu
+👨‍💻 About Me
 
-💻 **MERN Stack Developer**  
-🚀 Passionate about building **scalable, user-friendly web applications**
+👋 Hi, I’m Sowravu — a MERN Stack Developer passionate about building scalable and user-friendly web applications.
 
----
+🚀 I love turning ideas into real-world products
 
-## 👨‍💻 About Me
+🧠 Strong focus on clean architecture & maintainable code
 
-I specialize in building full-stack applications using **MongoDB, Express.js, React, and Node.js**.
+💡 Always learning new technologies and improving problem-solving skills
 
-Recently, I built an **E-commerce platform** called **DryDelicious 🛒**, a complete dry fruits selling website developed using **MongoDB, Node.js, Express, and EJS**.
+🤝 Enjoy collaborating on meaningful projects
 
-I enjoy turning ideas into real-world applications and continuously improving my skills.
+🌐 Socials
+<p align="left"> <a href="https://www.linkedin.com/in/sowravu" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sowravuusuresh@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://portfolio-me-xi-liard.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+🛠️ Tech Stack
+🚀 Frontend
 
----
 
-## 🛠️ Tech Stack
 
-**Frontend**
-- React.js
-- HTML, CSS
-- Bootstrap, Tailwind CSS
 
-**Backend**
-- Node.js
-- Express.js
 
-**Database**
-- MongoDB
-- PostgreSQL
 
-**Tools & Others**
-- Git, GitHub
-- Nginx
-- PM2
 
----
 
-## 🌟 Projects
 
-### 🛒 DryDelicious  
-E-commerce platform for selling dry fruits  
-**Tech:** MongoDB, Node.js, Express.js, EJS
 
-### 🔧 Mini Projects
-- Login & Authentication systems  
-- UI clones  
-- CRUD applications  
-- Small feature-based experiments  
+⚙️ Backend
 
----
 
-## 📫 Let’s Connect
 
-🌐 **Portfolio:**  
-👉 https://portfolio-me-xi-liard.vercel.app/
 
-💼 **LinkedIn:**  
-👉 https://www.linkedin.com/in/sowravu
+🗄️ Database
 
-📧 **Email:**  
-👉 sowravuusuresh@gmail.com
 
----
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/sowravu/sowravu/output/snake.gif)
+🔧 Tools & DevOps
 
+
+
+
+
+
+
+
+🌟 Projects
+🛒 DryDelicious
+
+E-commerce platform for selling dry fruits
+
+User authentication & session handling
+
+Product listing, cart & checkout flow
+
+Admin dashboard & order management
+
+Tech Used: MongoDB, Node.js, Express.js, EJS
+
+🔧 Mini Projects
+
+Login & authentication systems
+
+UI clones
+
+CRUD applications
+
+Feature-based experiments
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sowravu&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowravu&theme=tokyonight" height="170"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/sowravu/sowravu/output/snake.gif" alt="snake animation"/> </p>
