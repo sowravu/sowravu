@@ -24,7 +24,7 @@ Multiple mini-projects including clones, login systems, and UI experiments
 📫 Let’s Connect
 
 🌐 Portfolio Website
- ([add link if you have one](https://portfolio-me-xi-liard.vercel.app/))
+ ([](https://portfolio-me-xi-liard.vercel.app/))
 
 💼 LinkedIn
  ((https://www.linkedin.com/in/sowravu))
