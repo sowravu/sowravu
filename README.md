@@ -1,49 +1,70 @@
-👋 Hi, I’m Sowravu
+## 👋 Hi, I’m Sowravu
 
-💻 MERN Stack Developer | Passionate about building scalable and user-friendly web applications
+💻 **MERN Stack Developer**  
+🚀 Passionate about building **scalable, user-friendly web applications**
 
-🚀 I specialize in developing full-stack applications using MongoDB, Express.js, React, and Node.js.
-Recently, I built an E-commerce platform called DryDelicious 🛒 – a dry fruits selling website built with MongoDB, Node.js, Express, and EJS.
+---
 
-🛠️ Tech Stack
+## 👨‍💻 About Me
 
-Frontend: React.js, HTML, CSS, Bootstrap, Tailwind CSS
+I specialize in building full-stack applications using **MongoDB, Express.js, React, and Node.js**.
 
-Backend: Node.js, Express.js
+Recently, I built an **E-commerce platform** called **DryDelicious 🛒**, a complete dry fruits selling website developed using **MongoDB, Node.js, Express, and EJS**.
 
-Database: MongoDB, PostgreSQL
+I enjoy turning ideas into real-world applications and continuously improving my skills.
 
-Others: Git, GitHub, Nginx, PM2
+---
 
-🌟 Projects
+## 🛠️ Tech Stack
 
-DryDelicious – E-commerce platform for selling dry fruits (MongoDB, Node.js, Express, EJS)
+**Frontend**
+- React.js
+- HTML, CSS
+- Bootstrap, Tailwind CSS
 
-Multiple mini-projects including clones, login systems, and UI experiments
+**Backend**
+- Node.js
+- Express.js
 
-📫 Let’s Connect
+**Database**
+- MongoDB
+- PostgreSQL
 
-🌐 Portfolio Website
- ([click here]https://portfolio-me-xi-liard.vercel.app/)
+**Tools & Others**
+- Git, GitHub
+- Nginx
+- PM2
 
-💼 LinkedIn
- ((https://www.linkedin.com/in/sowravu))
+---
 
-📧 Email:sowravuusuresh@gmail.com
+## 🌟 Projects
 
+### 🛒 DryDelicious  
+E-commerce platform for selling dry fruits  
+**Tech:** MongoDB, Node.js, Express.js, EJS
 
+### 🔧 Mini Projects
+- Login & Authentication systems  
+- UI clones  
+- CRUD applications  
+- Small feature-based experiments  
 
+---
 
+## 📫 Let’s Connect
 
-![Snake animation](https://raw.githubusercontent.com/sowravu/sowravu/output/snake.svg)
+🌐 **Portfolio:**  
+👉 https://portfolio-me-xi-liard.vercel.app/
 
+💼 **LinkedIn:**  
+👉 https://www.linkedin.com/in/sowravu
 
+📧 **Email:**  
+👉 sowravuusuresh@gmail.com
 
+---
 
+## 🐍 Contribution Snake
 
-
-
-
-
-
+![Snake animation](https://raw.githubusercontent.com/sowravu/sowravu/output/snake.gif)
 
